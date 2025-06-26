@@ -12,4 +12,4 @@ Este é um arquivo de teste para o curso de Git e GitHub, já foram visto alguns
 * Git checkout 
 * Git reset HEAD "Nome do Arquivo"
 
-Entre muitos outros, estou achando o curso bem bacana 
+Entre muitos outros, estou achando o curso bem bacana !!! 
