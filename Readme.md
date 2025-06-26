@@ -1,9 +1,15 @@
 # Github
 
-Este é um arquivo de teste para o curso de Git e Github
+Este é um arquivo de teste para o curso de Git e GitHub, já foram visto alguns comandos, tais como: 
 
-Iremos também fazer o commit e mais alguns comandos.
+* Git add
+* Git commit
+* Git diff
+* Git push
+* Git log 
+* Git status 
+* Git add
+* Git checkout 
+* Git reset HEAD "Nome do Arquivo"
 
-vou adicionar mais algumas linhas, para teste.
-
-Mais uma linha para utilização agora do comando diff. 
+Entre muitos outros, estou achando o curso bem bacana 
